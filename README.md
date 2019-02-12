@@ -1,4 +1,4 @@
-# hornethyperloop ∞ CLASSIFIED
+# ∞ hornethyperloop CLASSIFIED
 CSUS Hornet Hyperloop x SpaceX Pod Competition Source Code
 
 https://www.hornethyperloop.com/
