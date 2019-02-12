@@ -1,7 +1,8 @@
-# ∞ hornethyperloop CLASSIFIED
+# ∞ HornetHyperloop CLASSIFIED
 CSUS Hornet Hyperloop x SpaceX Pod Competition Source Code
 
-https://www.hornethyperloop.com/
+- https://www.hornethyperloop.com/
+- https://www.spacex.com/hyperloop
 
 Getting Started:
 
