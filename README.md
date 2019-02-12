@@ -26,11 +26,9 @@ Rules:
 - A new commit/push must be demo'ed and approved by a lead before being pushed to a primary source.
 - Notify team leads of actions in the slack: hornethyperloop.slack.com
 
-Questions? Google it or Slack Roger
-
 Quick Reference:
 
-   Create a new repository on the command line
+- Create a new repository on the command line
 
             echo "# BenzeenPicScan" >> README.md
             git init
@@ -39,7 +37,9 @@ Quick Reference:
             git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
             git push -u origin master
 
-   Push an existing repository from the command line
+- Push an existing repository from the command line
 
             git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
             git push -u origin master
+
+*Questions? Google it or Slack Roger
