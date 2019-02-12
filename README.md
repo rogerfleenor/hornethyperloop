@@ -4,19 +4,19 @@ CSUS Hornet Hyperloop x SpaceX Pod Competition Source Code CLASSIFIED
 
 Getting Started:
 
-- Please learn git & github: (15 mins) 
+1) Please learn git & github: (15 mins) 
     
-    git https://www.youtube.com/watch?v=MJUJ4wbFm_A
-    github https://www.youtube.com/watch?v=EUvmCuPjHD4
+        git https://www.youtube.com/watch?v=MJUJ4wbFm_A
+        github https://www.youtube.com/watch?v=EUvmCuPjHD4
     
-- Install git & github here: (5 mins)
+2) Install git & github here: (5 mins)
     
-    git https://git-scm.com/downloads
-    github https://desktop.github.com/
+        git https://git-scm.com/downloads
+        github https://desktop.github.com/
 
-- Pull the TeamList.txt and add your name + 3 coding areas of interest: (5 mins)
+3) Pull/commit/push TeamList.txt after adding your name & 3 interests: (5 mins)
 
-    Roger Fleenor - web development, documentation/diagrams, Python, C
+        Roger Fleenor - web development, documentation/diagrams, Python
     
 Rules:
 
