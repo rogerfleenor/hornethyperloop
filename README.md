@@ -4,6 +4,12 @@ CSUS Hornet Hyperloop x SpaceX Pod Competition Source Code CLASSIFIED
 - https://www.hornethyperloop.com/
 - https://www.spacex.com/hyperloop
 
+Rules:
+
+- Please include thoughtful commit comments.
+- A new commit/push must be demo'ed and approved by a lead before being pushed to a primary source.
+- Notify team leads of actions in the slack: hornethyperloop.slack.com
+
 Getting Started:
 
 1) Please learn git & github: (15 mins) 
@@ -20,12 +26,6 @@ Getting Started:
 
        Roger Fleenor - web development, documentation/diagrams, Python
     
-Rules:
-
-- Please include thoughtful commit comments.
-- A new commit/push must be demo'ed and approved by a lead before being pushed to a primary source.
-- Notify team leads of actions in the slack: hornethyperloop.slack.com
-
 Quick Reference:
 
 - Create a new repository on the command line
