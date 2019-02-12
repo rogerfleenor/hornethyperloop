@@ -26,4 +26,17 @@ Rules:
 - A new commit/push must be demo'ed and approved by a lead before being pushed to a primary source.
 - Notify team leads of actions in the slack: hornethyperloop.slack.com
 
-Questions? Slack Roger
+Questions? Google it or Slack Roger
+
+Quick Reference:
+
+        …or create a new repository on the command line
+        echo "# BenzeenPicScan" >> README.md
+        git init
+        git add README.md
+        git commit -m "first commit"
+        git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
+        git push -u origin master
+        …or push an existing repository from the command line
+        git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
+        git push -u origin master
