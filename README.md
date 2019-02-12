@@ -42,4 +42,4 @@ Quick Reference:
             git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
             git push -u origin master
 
-*Questions? Problems? Google it or Slack Roger.
+*Questions? Problems? Google it or Slack Roger.*
