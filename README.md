@@ -16,7 +16,7 @@ Getting Started:
       - git     https://git-scm.com/downloads
       - github  https://desktop.github.com/
 
-3) Pull/commit/push TeamList.txt after adding your name & 3 interests: (5 mins)
+3) Pull/commit/push TeamList.txt adding your name & three software interests: (5 mins)
 
        Roger Fleenor - web development, documentation/diagrams, Python
     
