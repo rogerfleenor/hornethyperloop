@@ -2,7 +2,7 @@
 
 CSUS Hornet Hyperloop x SpaceX Pod Competition Source Code CLASSIFIED
 
-# Getting Started:
+Getting Started:
 
 - Please learn git & github: (15 mins) 
     https://www.youtube.com/watch?v=MJUJ4wbFm_A
@@ -12,6 +12,7 @@ CSUS Hornet Hyperloop x SpaceX Pod Competition Source Code CLASSIFIED
     https://git-scm.com/downloads
     https://desktop.github.com/
 
-# Rules:
+Rules:
+` get me antoher 
 - Please include thoughtful commit descriptions.
 - A new commit/push must be demo'ed and approved by a lead before being pushed.
