@@ -30,13 +30,16 @@ Questions? Google it or Slack Roger
 
 Quick Reference:
 
-…or create a new repository on the command line
+Create a new repository on the command line
+        
         echo "# BenzeenPicScan" >> README.md
         git init
         git add README.md
         git commit -m "first commit"
         git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
         git push -u origin master
-…or push an existing repository from the command line
+
+Push an existing repository from the command line
+
         git remote add origin https://github.com/rogerfleenor/BenzeenPicScan.git
         git push -u origin master
