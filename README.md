@@ -24,8 +24,16 @@ Getting Started:
 
 3) Pull/commit/push TeamList.txt adding your name & three software interests: (5 mins)
 
-       Roger Fleenor - web development, documentation/diagrams, Python
+      Roger Fleenor - web development, documentation/diagrams, Python
+
+4) Download this and install:
+       
+        https://drive.google.com/drive/folders/1KOaF7BkUlKBwl3rDrqvpwUDg8NG2G3GW?usp=sharing    
     
+5)  Follow tutorial to set up blinking light:
+       
+        https://www.youtube.com/watch?v=5BHQzUhv3r4
+
 Quick Reference:
 
 - Create a new repository on the command line
